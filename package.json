@@ -64,7 +64,7 @@
     "whatwg-url": "^4.8.0"
   },
   "dependencies": {
-    "encoding": "^0.1.11",
+    "encoding": "^0.1.13",
     "json-parse-better-errors": "^1.0.0",
     "safe-buffer": "^5.1.1"
   }
