@@ -66,6 +66,6 @@
   "dependencies": {
     "encoding": "^0.1.11",
     "json-parse-better-errors": "^1.0.0",
-    "safe-buffer": "^5.1.1"
+    "safe-buffer": "^5.2.1"
   }
 }
